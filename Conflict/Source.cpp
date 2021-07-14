@@ -4,4 +4,5 @@ int main()
 {
 	cout << "DOG";
 	cout << "DOGGY";
+	cout << "DOG";
 }
